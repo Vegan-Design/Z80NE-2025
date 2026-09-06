@@ -3,6 +3,7 @@ Enhanced version of Nuova Elettronica Z80 microcomputer from 1979
 The Z80 computer was published on the pages of the magazine Nuova Elettronica starting with issue 68 of October 1979.
 
 It was a project carried out by Micro Design of Genoa presented progressively in many issues of the magazine, until August 1985.
+
 The initial configuration, based on a proprietary bus, was very simple:
  - 1.92 MHz CPU
  - 1K RAM
@@ -15,23 +16,33 @@ An eprom programmer board could be added to this basic system.
 
 Next it was also possible to expand the memory through both static and dynamic RAM expansion cards, in various sizes, up to a maximum of 56K,
 removing orginal 1K RAM form CPU board.
+
 A further step forward was made with the presentation of a low-resolution video card based on the MC6847 chip which, however,
 was wired to operate only in text or semigraphic mode 6, excluding all graphics modes because only 512 bytes of VRAM was available.
+
 With this board, equipped with a parallel type keyboard connector, it was possible to use a cassette-loaded 5.5K Basic via hex Monitor commands
 and to use a printer via a specific parallel input/output board.
+
 A very important expansion was the Floppy Disk interface that allowed the loading of a real operating system called "NE-DOS" (TRS-80 derivation)
 or a version of CP/M 2.2 adapted to the 32-character by 16-lines screen provided by low-resolution video card.
+
 The interface, however, was limited to handle a single face disk for only 40 columns, which with the FM encoding allowed a storage capacity of about 77K
+
 Together this Floppy Disk interface, a new 1K Eprom was released containing a video hexadecimal monitor with commands for booting from disk.
+
 
 The entire system thus composed could be housed in a specifically designed metal cabinet with integrated power supply, keyboard, 5"1/4 SSSD floppy drive
 and 12" green phosphor monitor.
 
 One of the last expansions released was a high resolution video card based on the SY6545 chip capable of displaying in monochrome
 an 80 column screen for 24 lines of text and limited graphics capabilities with a resolution of 320x144 pixels.
+
 With this video card a new Eprom was released which by changing the formatting of the disks brought the capacity to about 90K.
+
 You could now run a new "NE-DOS Grafic" operating system still derived from the TRS-80 or a CP/M 2.2 version renamed "SONE"
+
 Finally, a Hard Disk card with SASI interface and BASF 6188/F 12 MB disk was released
+
 
 These last configurations allowed the assembly in a rack case with floppy and separate monitor and keyboard
 
@@ -116,4 +127,5 @@ By adding this card you can run the following firmware and OS from Nuova Elettro
 
 The board provide a 16-grays composite video output with software selctable video switching with MC6847 video output
 and a CGA compatible RGBI video out suitable for SCART connector (with external circuitry).
+
 With this card you can use the OS "NE-DOS grafic" and a 62K CP/M 2.2
