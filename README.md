@@ -104,6 +104,7 @@ and the following from third parties:
 - programmable sound generator (uses two CTC timers)
 - Z80 Interrupt Mode 2 management
 - connector for original Nuova Elettronica BUS riser
+- socket for FlashRom organised as 4K pages to store user or frequently used programs
 - hardware debug circuit with 8K dedicated CPU-accessible RAM for breakpoint generation (NMI) on:
   - address access for M1 cycle (after 1-255 times)
   - address access for read and/or write (after 1-255 times)
