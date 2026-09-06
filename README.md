@@ -84,6 +84,7 @@ This main board can work by itself to run the following firmwares from Nuova Ele
 - LX390 video hex monitor with disk functions
 - LX548 Basic 16K resident on Eprom
 - Basic 5.5K loaded from cassette
+
 and the following from third parties:
 - LX382 redirected to video
 - LX390 modified for NE-DOS format
