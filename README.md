@@ -132,4 +132,6 @@ The board provide a 16-grays composite video output and a CGA compatible RGBI vi
 There is a software selctable video switching to select MC6847 gray video or R6545 gray video to be outputted to RCA connector
 
 
-With this card you can use the OS "NE-DOS grafic" and a 62K CP/M 2.2
+With this card you can use the OS "NE-DOS grafic" and my 62K CP/M 2.2 version that support double face floppy disks for a total storage of around 188K
+
+A boot from a SASI emulator (external project) is also available
