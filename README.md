@@ -65,19 +65,33 @@ My compact replica is structured in only three boards so organized:
   - 8K dedicated Video RAM (visible 1K at a time: max 6K used by the 6847, 8K available to the CPU in 1K pages)
   - NTSC color encoder
   - external CG ROM with 2x characters set selectables by software
+    
     text 32x16 int CG ROM 2x palettes of 2 colors
+    
     text 32x16 ext CG ROM 2x palettes of 2 colors
+    
   - all graphic and semigraphic modes selectable via softare:
+    
     SG4 64x32 9 colors
+    
     SG6 64x48 2x palettes of 5 colors
+    
     CG1 64x64 2x palettes of 4 colors
+    
     CG2 128x64 2x palettes of 4 colors
+    
     CG3 128x96 2x palettes of 4 colors
+    
     CG6 128x192 2x palettes of 4 colors
+    
     RG1 128x64 2x palettes of 2 colors
+    
     RG2 128x96 2x palettes of 2 colors
+    
     RG3 128x192 2x palettes of 2 colors
+    
     RG6 256x192 2x palettes of 2 colors
+    
 
 This main board can work by itself to run the following firmwares from Nuova Elettronica:
 - LX382 hex monitor on keypad and LED display
