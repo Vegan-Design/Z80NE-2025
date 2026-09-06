@@ -1,5 +1,6 @@
 # Z80NE-2025
 Enhanced version of Nuova Elettronica Z80 microcomputer from 1979
+
 The Z80 computer was published on the pages of the magazine Nuova Elettronica starting with issue 68 of October 1979.
 
 It was a project carried out by Micro Design of Genoa presented progressively in many issues of the magazine, until August 1985.
