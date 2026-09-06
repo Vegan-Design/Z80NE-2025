@@ -27,7 +27,7 @@ and to use a printer via a specific parallel input/output board.
 A very important expansion was the Floppy Disk interface that allowed the loading of a real operating system called "NE-DOS" (TRS-80 derivation)
 or a version of CP/M 2.2 adapted to the 32-character by 16-lines screen provided by low-resolution video card.
 
-The interface, however, was limited to handle a single face disk for only 40 columns, which with the FM encoding allowed a storage capacity of about 77K
+The interface, however, was limited to handle a single face disk for only 40 cylinders, which with the FM encoding allowed a storage capacity of about 77K
 
 Together this Floppy Disk interface, a new 1K Eprom was released containing a video hexadecimal monitor with commands for booting from disk.
 
