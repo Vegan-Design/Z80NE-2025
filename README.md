@@ -8,6 +8,7 @@ The initial configuration, based on a proprietary bus, was very simple:
  - 1K RAM
  - 1K ROM
  - separated hexadecimal keypad with eight-digit 7-segments LED display
+
 A Kansas City Standard cassette interface card was available with transfer rates of 300 baud, 600 baud, or 1200 baud
 An eprom programmer board could be added to this basic system.
 Next it was also possible to expand the memory through both static and dynamic RAM expansion cards, in various sizes, up to a maximum of 56K,
