@@ -127,7 +127,9 @@ By adding this card you can run the following firmware and OS from Nuova Elettro
 - new 320x200 graphics with 16 colors for pixel
 - new 640x200 graphics with 2 of 16 colors per block of 8x2 pixels
 
-The board provide a 16-grays composite video output with software selctable video switching with MC6847 video output
-and a CGA compatible RGBI video out suitable for SCART connector (with external circuitry).
+The board provide a 16-grays composite video output and a CGA compatible RGBI video out also suitable for SCART connector (with external circuitry).
+
+There is a software selctable video switching to select MC6847 gray video or R6545 gray video to be outputted to RCA connector
+
 
 With this card you can use the OS "NE-DOS grafic" and a 62K CP/M 2.2
