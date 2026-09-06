@@ -16,7 +16,7 @@ A Kansas City Standard cassette interface card was available with transfer rates
 An eprom programmer board could be added to this basic system.
 
 Next it was also possible to expand the memory through both static and dynamic RAM expansion cards, in various sizes, up to a maximum of 56K,
-removing orginal 1K RAM form CPU board.
+removing orginal 1K RAM from CPU board.
 
 A further step forward was made with the presentation of a low-resolution video card based on the MC6847 chip which, however,
 was wired to operate only in text or semigraphic mode 6, excluding all graphics modes because only 512 bytes of VRAM was available.
@@ -38,14 +38,14 @@ and 12" green phosphor monitor.
 One of the last expansions released was a high resolution video card based on the SY6545 chip capable of displaying in monochrome
 an 80 column screen for 24 lines of text and limited graphics capabilities with a resolution of 320x144 pixels.
 
-With this video card a new Eprom was released which by changing the formatting of the disks brought the capacity to about 90K.
+With this video card a new 1K Eprom was released which by changing the formatting of the disks brought the capacity to about 90K.
 
 You could now run a new "NE-DOS Grafic" operating system still derived from the TRS-80 or a CP/M 2.2 version renamed "SONE"
 
-Finally, a Hard Disk card with SASI interface and BASF 6188/F 12 MB disk was released
+Finally, a Hard Disk card with SASI interface and BASF 6188/F 12 MB disk was released. With this card was released the last firmware in 2K eprom to handle Hard Disk CP/M boot.
 
 
-These last configurations allowed the assembly in a rack case with floppy and separate monitor and keyboard
+These last configurations required the assembly in a rack case with floppy and separate monitor and keyboard
 
  
 My compact replica is structured in only three boards so organized:
@@ -89,6 +89,7 @@ and the following from third parties:
 - LX382 redirected to video
 - LX390 modified for NE-DOS format
 - Basic 8K Microsoft
+- RAM test
 
 --
 
@@ -115,6 +116,9 @@ By adding this card you can run the following firmware and OS from Nuova Elettro
 - LX1390 bootloader for NE-DOS boot
 - Basic 5.5K loaded from disk
 - CP/M 2.2 on low resolution 32x16 chars screen
+
+or a new feature:
+- RS232 control through PC Dashboard that allow complete machine control such as debug, read/write memory or peripherals, read/write floppy disk images
 
 --
 
